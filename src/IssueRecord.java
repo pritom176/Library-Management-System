@@ -31,6 +31,6 @@ public class IssueRecord {
     }
 
     public void returnBook() {
-        returnDate = LocalDate.now();
+        this.returnDate = LocalDate.now();
     }
 }
