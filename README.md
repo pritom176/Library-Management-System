@@ -1,5 +1,3 @@
-# Library Management System - Member 2
-
 ## Responsibility
 Member Management and File Persistence.
 
@@ -12,6 +10,3 @@ Member Management and File Persistence.
 - `src/model/Member.java`
 - `src/manager/MemberManager.java`
 - `src/persistence/FileManager.java`
-
-## Notes
-The validation currently uses `IllegalArgumentException`. During final team integration, replace the relevant exceptions with the team's custom exception classes from Member 4.
